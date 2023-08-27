@@ -1,4 +1,4 @@
-# Título do Projeto
+# Cozinha Sustentável
 
 `CURSO: Sistemas de Informação`
 
@@ -6,19 +6,20 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas Alimentícias Não Convencionais).
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Camilla Cintra de Oliveira
+* Gabriel Vieira de Carvalho Santana
+* Júnior Batista Silva Filho 
+* Patricia Karenina Arrais Maia
+* Thiago Marques Theodoro
+* Vinicius Mesquita de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hugo Bastos de Paula
 
 # Planejamento
 
