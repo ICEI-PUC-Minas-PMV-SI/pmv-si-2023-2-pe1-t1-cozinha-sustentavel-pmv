@@ -3,26 +3,16 @@
 A pandemia da Covid 19 agravou a insegurança alimentar a nível mundial. Dentre as várias medidas de mitigação de escassez, usar ao máximo tudo que aquilo que é produzido é uma forma eficiente de expandir a capacidade de suplementação das famílias.
 
 ## Problema
-O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o produto oferece.
+O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o insumo oferece.
 O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer um que busque potencializar o uso dos alimentos consumidos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo.
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Concentrar receitas sustentáeis dos mais variados ingredientes se tornando um catálogo de consulta.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O uso alternativo de diversos ingredientes, apesar de em muitos casos remontar tradições milenares, é um conhecimento pouco difundido e que acaba por vezes restrito a grupos alternativos e restritos como o público vegano.
+A criação de um repositório geral referente ao uso diversificado de alimentos tem o objetivo de desmistificar e simplificar o uso direcionado de alimentos do cotidiano.
 
 ## Público-Alvo
 
