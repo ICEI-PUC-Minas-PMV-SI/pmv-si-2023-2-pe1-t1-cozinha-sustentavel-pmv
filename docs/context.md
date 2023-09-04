@@ -7,8 +7,7 @@ O desperdício de alimentos se deve, dentre diversas causas, por falta do conhec
 
 
 ## Objetivos
-O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer um que busque potencializar o uso dos alimentos consumidos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo.
-Concentrar receitas sustentáeis dos mais variados ingredientes se tornando um catálogo de consulta.
+O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer usuario que busque potencializar o uso dos alimentos adquiridos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo assim concentrar receitas sustentáeis dos mais variados ingredientes se tornando um catálogo de consulta.
 
 ## Justificativa
 
