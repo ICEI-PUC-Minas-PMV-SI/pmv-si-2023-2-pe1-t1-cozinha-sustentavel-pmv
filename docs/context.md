@@ -4,10 +4,11 @@ A pandemia da Covid 19 agravou a insegurança alimentar a nível mundial. Dentre
 
 ## Problema
 O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o insumo oferece.
-O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer um que busque potencializar o uso dos alimentos consumidos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo.
+
 
 ## Objetivos
 Concentrar receitas sustentáeis dos mais variados ingredientes se tornando um catálogo de consulta.
+O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer um que busque potencializar o uso dos alimentos consumidos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo.
 
 ## Justificativa
 
