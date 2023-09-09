@@ -5,20 +5,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+Leonardo é cozinheiro formado em gastronomia já atuando na área há alguns anos. Ele busca uma ferramenta que o auxilie a divulgar suas receitas do nicho sustentável em redes sociais mostrando todo seu conhecimento e criando um nome de referência. 
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Ricardo tem 24 anos, é estudante universitário e vive em uma cidade distante de sua terra natal com a ajuda de seus pais. Ele costuma visitar sua família uma vez no mês e geralmente não costuma planejar as compras no supermercado, tendo que muitas vezes se virar com o que tem na geladeira e com baixo orçamento. Ele sabe que tem uma dieta com poucos nutrientes focada em soluções processadas e gostaria de mudar isso no curto prazo.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Pedro e Julia começaram a morar juntos recentemente. Eles vão uma vez na semana ao supermercado e tentam sempre diversificar o que consomem. Como trabalham durante a semana, param no domingo para cozinhar marmitas de refeições que ficarão congeladas até seu consumo. Eles preferem aproveitar o fim de semana em atividades juntos, como ver filmes comendo petiscos. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Márcia é uma viuva aposentada de 80 anos que vive só em seu apartamento. Ela sempre gostou de reutilizar embalagens e outros itens em sua cozinha, além de compartilhar dicas de economia doméstica com suas amigas do prédio. Ela costuma fazer caminhadas matinais e cozinhar todos os dias seu almoço.
 
 ## Histórias de Usuários
 
