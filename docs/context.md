@@ -8,16 +8,17 @@ Apesar de ser um dos principais produtores de alimentos do mundo, o Brasil tamb�
 ## Problema
 O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o insumo oferece.
 
+Diversos itens como cascas não são utilizados devido a falta de conhecimento da possibilidade de consumir tal item, o que também faz com que o consumidor opte por alimentos processados com baixo teor nutritivo e ricos em conservantes prejudiciais a saúde. 
+
 ## Objetivos
 Criar um repositório de receitas que facilite a consulta e exploração por qualquer usuario que busque potencializar o uso dos alimentos adquiridos. Também será possível que o usuário experimente, adicione e compartilhar suas próprias descobertas ao catálogo assim concentrando receitas sustentáveis dos mais variados ingredientes, se firmando como um catálogo de consulta aberto.
 
 ## Justificativa
-Ao conscientizar as novas famílias sobre como realizar um consumo sustentável, diminui-se a quantidade de alimentos desperdiçados com a consequência de tanto diminuir o impacto financeiro como aumentar a disponilidade de comida para todos. 
+Ao conscientizar as novas famílias sobre como realizar um consumo sustentável, diminui-se a quantidade de alimentos desperdiçados reduzindo o impacto financeiro e aumentando a disponilidade de alimento para todos. 
 
 A criação de um repositório geral referente ao uso diversificado de alimentos tem o objetivo de desmistificar e simplificar o uso otimizado de alimentos do cotidiano.
 
 ## Público-Alvo
-
 Jovens recem saídos da casa dos pais que querem explorar receitas variadas.
 Adultos e idosos que buscam economia doméstica em sua residência.
 
