@@ -1,12 +1,8 @@
 # Introdução
-
-A pandemia da Covid 19 agravou a insegurança alimentar a nível mundial. Dentre as várias medidas de mitigação de escassez, usar ao máximo tudo que aquilo que é produzido é uma forma eficiente de expandir a capacidade de suplementação das famílias.
-
-A pandemia de COVID-19. Pressões na cadeia de mantimentos. Eventos climáticos. Essas disrupções já vinham elevando os preços dos alimentos quando a Rússia invadiu a Ucrânia, no final de fevereiro de 2022. Hoje, a guerra em um dos seis celeiros do mundo e no Mar Negro, um polo crítico de abastecimento, transporte de trigo e fertilizantes, está empurrando a segurança alimentar global para uma situação de alto risco.
+Disrupções como a pandemia de COVID-19, pressões na cadeia de mantimentos e eventos climático já elevaram os preços dos alimentos. Com a invasão da Rússia pela Ucrânia, um dos seis celeiros do mundo e o bloqueio no Mar Negro, um canal crítico de abastecimento, a segurança alimentar global se encaminha para uma situação de alto risco.
 
 ## Problema
 O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o insumo oferece.
-
 
 ## Objetivos
 O objetivo do blog cozinha sustentável é criar um repositório de receitas que facilite a consulta e exploração por qualquer usuario que busque potencializar o uso dos alimentos adquiridos. Também será possível que o usuário experimente e adicione suas próprias descobertas ao catálogo assim concentrando receitas sustentáveis dos mais variados ingredientes se firmando como um catálogo de consulta.
