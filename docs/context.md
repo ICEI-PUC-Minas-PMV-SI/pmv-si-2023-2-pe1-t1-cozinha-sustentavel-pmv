@@ -2,6 +2,8 @@
 
 A pandemia da Covid 19 agravou a insegurança alimentar a nível mundial. Dentre as várias medidas de mitigação de escassez, usar ao máximo tudo que aquilo que é produzido é uma forma eficiente de expandir a capacidade de suplementação das famílias.
 
+A pandemia de COVID-19. Pressões na cadeia de mantimentos. Eventos climáticos. Essas disrupções já vinham elevando os preços dos alimentos quando a Rússia invadiu a Ucrânia, no final de fevereiro de 2022. Hoje, a guerra em um dos seis celeiros do mundo e no Mar Negro, um polo crítico de abastecimento, transporte de trigo e fertilizantes, está empurrando a segurança alimentar global para uma situação de alto risco.
+
 ## Problema
 O desperdício de alimentos se deve, dentre diversas causas, por falta do conhecimento adequado em como manusear e preparar a totalidade do que o insumo oferece.
 
