@@ -5,7 +5,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-Leonardo é cozinheiro formado em gastronomia já atuando na área há alguns anos. Ele busca uma ferramenta que o auxilie a divulgar suas receitas do nicho sustentável em redes sociais mostrando todo seu conhecimento e criando um nome de referência. 
+Leonardo é cozinheiro formado em gastronomia já atuando na área há alguns anos. Ele busca uma ferramenta que o auxilie a apresentar suas receitas do nicho sustentável em redes sociais mostrando todo seu conhecimento e criando um nome de referência. 
 
 Ricardo tem 24 anos, é estudante universitário e vive em uma cidade distante de sua terra natal com a ajuda de seus pais. Ele costuma visitar sua família uma vez no mês e geralmente não costuma planejar as compras no supermercado, tendo que muitas vezes se virar com o que tem na geladeira e com baixo orçamento. Ele sabe que tem uma dieta com poucos nutrientes focada em soluções processadas e gostaria de mudar isso no curto prazo.
 
@@ -14,8 +14,14 @@ Pedro e Julia começaram a morar juntos recentemente. Eles vão uma vez na seman
 Márcia é uma viuva aposentada de 80 anos que vive só em seu apartamento. Ela sempre gostou de reutilizar embalagens e outros itens em sua cozinha, além de compartilhar dicas de economia doméstica com suas amigas do prédio. Ela costuma fazer caminhadas matinais e cozinhar todos os dias seu almoço.
 
 ## Histórias de Usuários
-
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Cozinheiro | Registrar minhas receitas           | Divulgar e minhas redes sociais               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
