@@ -21,4 +21,4 @@ A criação de um repositório geral referente ao uso diversificado de alimentos
 ## Público-Alvo
 Jovens recem saídos da casa dos pais que querem explorar receitas variadas.
 Adultos e idosos que buscam economia doméstica em sua residência.
-
+Cozinheiro que desejar apresentar seus trabalhos sustentaveis.
