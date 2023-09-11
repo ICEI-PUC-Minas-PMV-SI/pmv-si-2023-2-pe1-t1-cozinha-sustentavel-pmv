@@ -1,8 +1,13 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O projeto tem o objetivo de incentivar as pessoas a terem uma alimentação mais sutentável e menos processada. Com isso o sistema tem como solução a criação de um catálago de receitas e o desenvolvimento de uma rede que possibilita usuários a explorarem e adicionarem mais informações e conteúdo.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Para isso será abordado a construção das personas e das histórias de usuários para, posteriormente, serem definidas os requisitos do sistema.
+
+As técnicas utilizadas são:
+- Definição de personas, contextualizando seus momentos de vida e suas necessidades.
+- Criação das histórias de usuários, separando em "Persona" | "Funcionalidade" | "Motivo".
+- Criação dos requisitos do sistema, baseado nos resultados dos passos anteriores.
 
 ## Personas
 Leonardo é cozinheiro formado em gastronomia já atuando na área há alguns anos. Ele busca uma ferramenta que o auxilie a apresentar suas receitas do nicho sustentável em redes sociais mostrando todo seu conhecimento e criando um nome de referência. 
