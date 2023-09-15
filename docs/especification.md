@@ -15,7 +15,7 @@ Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. E
   - Motivação
      - Divulgar a cozinha sustentável, a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção, pelos usuários, de receitas sustentáveis, elaboradas em casa e, quando os usuários estiverem fora de casa, a opção pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes.  O Slow food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos". 
   - Frustação
-     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço, em razão de pouca informação e visibilidade. 
+     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço, em razão de pouca informação e inexpressiva visibilidade. 
 
 Ricardo tem 24 anos, é estudante universitário, de baixa renda e vive em uma cidade distante de sua terra natal, com a ajuda de seus pais. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo, muitas vezes, que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, focada em soluções industrializadas e pretende mudar essa situação no curto prazo, também por ser filho de pais hipertensos e diabéticos. 
   - Motivação
