@@ -1,5 +1,5 @@
 # Introdução
-Disrupções como a pandemia de COVID-19, pressões na cadeia de mantimentos e eventos climáticos já elevaram os preços dos alimentos. Com a invasão da Rússia pela Ucrânia, um dos seis celeiros do mundo e o bloqueio no Mar Negro, um canal crítico de abastecimento, a segurança alimentar global se encaminha para uma situação de alto risco.
+Disrupções como a pandemia de COVID-19, pressões na cadeia de mantimentos e eventos climáticos já elevaram os preços dos alimentos. Com a invasão da Rússia na Ucrânia, um dos seis celeiros do mundo e o bloqueio no Mar Negro, um canal crítico de abastecimento, a segurança alimentar global se encaminha para uma situação de alto risco.
 
 Segundo a Organização das Nações Unidas (ONU) cerca de 70,3 milhões de brasileiros, equivalente a 32,8% da população, encontram-se em situação de insegurança alimentar, enquanto 21 milhões não têm sequer o que comer, de acordo com dados coletados entre 2020 e 2022.
 
