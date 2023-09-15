@@ -3,7 +3,7 @@ Disrupções negativas nos padrões alimentares globais, no período de pandemia
 
 Segundo a Organização das Nações Unidas (ONU) cerca de 70,3 milhões de brasileiros, o equivalente a 32,8% da população, encontram-se em situação de insegurança alimentar, enquanto 21 milhões de brasileiros não têm sequer o que comer, conforme dados coletados, pela ONU, no período entre 2020 e 2022.
 
-Apesar de o Brasil ser um dos principais produtores de alimentos do mundo, ele também se posiciona como um dos países com maior desperdício de alimentos. Segundo o IBGE, cerca de 30% dos alimentos produzidos no país são jogados fora - o equivalente a 46 milhões de toneladas de alimentos desperdiçados por ano.
+Apesar de o Brasil ser um dos principais produtores de alimentos do mundo, ele também se posiciona como um dos países com maior desperdício de alimentos. Segundo o IBGE, anualmente, cerca de 30% (o equivalente a 46 milhões de toneladas) dos alimentos produzidos no país são jogados fora.
 
 ## Problema
 O desperdício de alimentos se deve, entre diversas causas, pelo fato de a maioria das pessoas desconhecer sobre como manuseá-los e prepará-los adequadamente e sobre como aproveitar, ao máximo, o valor nutricional e a variedade de usos que os ingredientes oferecem.
