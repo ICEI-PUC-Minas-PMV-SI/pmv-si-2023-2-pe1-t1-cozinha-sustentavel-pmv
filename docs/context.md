@@ -19,6 +19,6 @@ Ao conscientizar as novas famílias sobre como realizar um consumo sustentável,
 A criação de um repositório geral referente ao uso diversificado de alimentos tem o objetivo de desmistificar e simplificar o uso otimizado de alimentos usados no dia a dia. 
 
 ## Público-Alvo
-Jovens recém saídos da casa dos pais que queiram experimentar receitas de alimentação saudável, consciente e variada;
-Adultos e idosos que busquem economia doméstica;
-Cozinheiros que desejem apresentar seus trabalhos sustentáveis.
+1) Jovens recém saídos da casa dos pais que queiram experimentar receitas de alimentação saudável, consciente e variada;
+2) Adultos e idosos que busquem economia doméstica;
+3) Cozinheiros que desejem apresentar seus trabalhos sustentáveis.
