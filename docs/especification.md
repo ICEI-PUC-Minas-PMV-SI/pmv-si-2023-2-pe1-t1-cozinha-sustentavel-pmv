@@ -4,7 +4,7 @@ O projeto tem o objetivo de incentivar os usuários a adotarem uma alimentação
 
 Para isso, primeiramente, as personas, suas características e necessidades específicas, no campo alimentar, serão apresentadas, para posterior definição dos requisitos do sistema. 
 
-As técnicas utilizadas, seguir, serão:
+As técnicas utilizadas, a seguir, serão:
 - Definição de personas, com contextualização de seus momentos de vida e de suas necessidades;
 - Criação das histórias de usuários, separando em "Persona" | "Funcionalidade" | "Motivo";
 - Criação dos requisitos do sistema, a partir dos resultados dos passos anteriores.
