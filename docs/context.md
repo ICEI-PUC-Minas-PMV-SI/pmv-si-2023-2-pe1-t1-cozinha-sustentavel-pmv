@@ -15,7 +15,7 @@ Por comodismo e praticidade, observa-se, na atualidade, a adoção, por expressi
 ## Objetivos
 Criar um repositório de receitas que facilite a consulta, por qualquer usuário, sobre como potencializar o uso dos alimentos.
 
-Nele, também será possível que o usuário experimente, adicione e compartilhe suas próprias descobertas sobre receitas sustentáveis dos mais variados ingredientes, firmando a ideia do repositório como um catálogo de consulta aberta.
+Firmar a ideia do repositório como um catálogo de consulta aberta e de trocas interativas. Nele, o usuário poderá adicionar e compartilhar suas próprias descobertas de receitas sustentáveis, dos mais variados ingredientes, e experimentar receitas de outros usuários.  
 
 ## Justificativa
 Ao conscientizar as novas famílias sobre como realizar um consumo sustentável, diminui-se a quantidade de alimentos desperdiçados, promove-se um consumo mais consciente e saudável e, de forma indireta, contribui-se para a redução dos impactos socioeconômicos, políticos e ambientais negativos resultantes do não-aproveitamento de alimentos. 
