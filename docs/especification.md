@@ -19,7 +19,7 @@ Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. E
 
 Ricardo tem 24 anos, é estudante universitário, de baixa renda e vive em uma cidade distante de sua terra natal, com a ajuda de seus pais. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo, muitas vezes, que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, focada em soluções industrializadas e pretende mudar essa situação no curto prazo, também por ser filho de pais hipertensos e diabéticos. 
   - Motivação
-    - Encontrar uma alimentação que concilie as seguintes variáveis: nível geral de saúde, máximo aproveitamento dos alimentos (em termos nutricionais e de desperdício tendendo a zero) e economia doméstica (uma alimentação saudável, consciente e sustentável que "caiba no seu bolso"). 
+    - Encontrar uma alimentação que concilie as seguintes variáveis: nível geral de saúde, máximo aproveitamento dos alimentos (em termos nutricionais e de desperdício tendendo a zero) e economia doméstica (uma alimentação saudável, consciente e sustentável, que "caiba no seu bolso"). 
   - Frustação
     - Alimentação baseada em alimentos industrializados e com baixo teor nutricional;
     - Quadro médico de pré-diabetes e de deficiência nutricional. 
@@ -46,15 +46,15 @@ As tabelas, que se seguem, apresentam os requisitos funcionais e não funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Criar um perfil para cadastrar receitas | ALTA |  |
+|RF-001| Criar um perfil para cadastrar as receitas | ALTA |  |
 |RF-002| Registrar as receitas | ALTA | |
 |RF-003| Consultar as receitas adicionadas | ALTA | | 
 |RF-004| Pesquisar as receitas por ingrediente | MÉDIA | | 
-|RF-005| O usuário precisa avaliar as receitas |  MÉDIA | |
-|RF-006| Editar receitas adicionadas anteriormente | MÉDIA | | 
+|RF-005| Avaliar as receitas |  MÉDIA | |
+|RF-006| Editar as receitas adicionadas anteriormente | MÉDIA | | 
 |RF-007| Navegar por categorias | MÉDIA | |
-|RF-008| Favoritar receitas | BAIXA ||
-|RF-009| Compartilhar receitas | BAIXA ||
+|RF-008| Favoritar as receitas | BAIXA ||
+|RF-009| Compartilhar as receitas | BAIXA ||
 
 ### Requisitos não Funcionais
 
