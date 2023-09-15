@@ -1,45 +1,46 @@
 # Especificações do Projeto
 
-O projeto tem o objetivo de incentivar as pessoas a terem uma alimentação mais sustentável e menos processada. Com isso, o sistema tem como solução a criação de um catálogo de receitas e o desenvolvimento de uma rede que possibilite usuários a experimentarem e adicionarem receitas e conteúdos de alimentação consciente e sustentável. 
+O projeto tem o objetivo de incentivar os usuários a adotarem uma alimentação consciente, sustentável e saudável. A partir dessa premissa, o sistema apresenta, como solução, a criação de um catálogo de receitas e o desenvolvimento de uma rede que: 1) permita aos usuários adicionar e compartilhar receitas e conteúdos de alimentação inteligente e socialmente responsável; 2) possibilite aos usuários a interação entre si e a divulgação de conteúdos produzidos por profissionais especializados em alimentação sustentável. 
 
-Para isso, serão abordados a construção das personas e das histórias de usuários para, posteriormente, serem definidas os requisitos do sistema.
+Para isso, primeiramente, as personas, suas características e necessidades específicas, no campo alimentar, serão apresentadas, para posterior definição dos requisitos do sistema. 
 
-As técnicas utilizadas são:
-- Definição de personas, contextualizando seus momentos de vida e suas necessidades.
-- Criação das histórias de usuários, separando em "Persona" | "Funcionalidade" | "Motivo".
-- Criação dos requisitos do sistema, baseado nos resultados dos passos anteriores.
+As técnicas utilizadas, seguir, serão:
+- Definição de personas, com contextualização de seus momentos de vida e de suas necessidades;
+- Criação das histórias de usuários, separando em "Persona" | "Funcionalidade" | "Motivo";
+- Criação dos requisitos do sistema, a partir dos resultados dos passos anteriores.
 
 ## Personas
 
-Leonardo é cozinheiro formado em gastronomia já atuando na área há alguns anos. Ele busca uma ferramenta que o auxilie a apresentar suas receitas do nicho sustentável em redes sociais mostrando todo seu conhecimento e criando um nome de referência. 
+Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. Ele busca uma ferramenta que o auxilie a apresentar, em redes sociais, suas receitas do nicho de alimentação sustentável, objetivando a consolidação de seu nome como referência na gastronomia socialmente consciente. 
   - Motivação
-     - Apresentar sua receitas sustentáveis baseada no movimento Slow Food e criar uma marca. O Slow food é um movimento que defende alimentos de qualidade e acessíveis a todos, com mínimo desperdício.  
+     - Divulgar a cozinha sustentável, a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção, pelos usuários, de receitas sustentáveis, elaboradas em casa e, quando os usuários estiverem fora de casa, a opção pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes.  O Slow food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos". 
   - Frustação
-     - As redes sociais atuais não possui ferramentas adequadas para a divulgação de receitas sustentáveis. 
+     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço, em razão de pouca informação e visibilidade. 
 
-Ricardo tem 24 anos, é estudante universitário e vive em uma cidade distante de sua terra natal com a ajuda de seus pais. Ele costuma visitar sua família uma vez no mês e geralmente não costuma planejar as compras no supermercado, tendo que muitas vezes se virar com o que tem na geladeira e com seu baixo orçamento. Ele sabe que tem uma dieta com poucos nutrientes focada em soluções industrializadas e gostaria de mudar isso no curto prazo.
+Ricardo tem 24 anos, é estudante universitário, de baixa renda e vive em uma cidade distante de sua terra natal, com a ajuda de seus pais. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo, muitas vezes, que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, focada em soluções industrializadas e pretende mudar essa situação no curto prazo, também por ser filho de pais hipertensos e diabéticos. 
   - Motivação
-    - Buscar uma alimentação mais saudável, sustentável com o mínimo de desperdício.
+    - Encontrar uma alimentação que concilie as seguintes variáveis: nível geral de saúde, máximo aproveitamento dos alimentos (em termos nutricionais e de desperdício tendendo a zero) e economia doméstica (uma alimentação saudável, consciente e sustentável que "caiba no seu bolso"). 
   - Frustação
-    - Alimentação baseada em alimentos industrializados e com baixo teor nutricional.
+    - Alimentação baseada em alimentos industrializados e com baixo teor nutricional;
+    - Quadro médico de pré-diabetes e de deficiência nutricional. 
     
-
 ## Histórias de Usuários
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
+
+Com base na análise das personas, as seguintes histórias de usuários foram identificadas:
 
 |EU COMO... | QUERO/PRECISO ...  |PARA ...                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Cozinheiro | Preciso criar um perfil | Apresentar sua marca | 
-| Cozinheiro | Criar minhas receitas | Apresentar o conceito Slow Food e divulgar uma marca |
-| Cozinheiro | Compartilhar minhas Receitas | Apresentar em minhas redes sociais |
-| Usuário | Consultar receitas | Possuir uma alimentação mais saudável, sustentável com o mínimo de desperdício |  
-| Usuário | Pesquisar as receitas por ingrediente ou pelo nome do prato | Consumir baseado no que há na geladeira |
+| Cozinheiro | Preciso criar um perfil | Apresentar conteúdos próprios de alimentação sustentável | 
+| Cozinheiro | Criar minhas receitas | Consolidar, nas principais redes sociais, meu nome como referência na gastronomia sustentável |
+| Cozinheiro | Compartilhar minhas receitas | Divulgar o movimento Slow Food e incentivar a adoção dos demais usuários ao consumo consciente |
+| Usuário | Consultar receitas | Criar refeições saudáveis, sustentáveis e com o mínimo de desperdício |  
+| Usuário | Pesquisar as receitas por ingrediente ou pelo nome do prato | Consumir de acordo com o que há na geladeira |
 | Usuário | Avaliar as receitas | Compartilhar minhas experiências |
 | Usuário | Favoritar as receitas | Criar uma dieta balanceada |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas, que se seguem, apresentam os requisitos funcionais e não funcionais do escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -60,8 +61,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivo móvel | ALTA | 
-
-
 
 ## Restrições
 
