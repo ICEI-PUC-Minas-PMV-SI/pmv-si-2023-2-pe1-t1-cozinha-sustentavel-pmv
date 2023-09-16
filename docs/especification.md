@@ -4,7 +4,7 @@ O projeto tem o objetivo de incentivar os usuários a adotarem uma alimentação
 1) Permita aos usuários adicionar e compartilhar receitas e conteúdos de alimentação inteligente e socialmente responsável; 
 2) Possibilite aos usuários a interação entre si e a divulgação de conteúdos produzidos por profissionais especializados em alimentação sustentável. 
 
-Para isso, primeiramente, as personas, suas características e necessidades específicas no campo alimentar serão apresentadas, para a posterior definição dos requisitos do sistema. 
+Para isso, primeiramente, serão apresentadas as personas, suas características e necessidades específicas no campo alimentar, para a posterior definição dos requisitos do sistema. 
 
 As técnicas a seguir serão as seguintes:
 - Definição de personas, com contextualização de seus momentos de vida e de suas necessidades;
