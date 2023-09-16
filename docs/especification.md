@@ -30,10 +30,10 @@ Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a aju
 
   - Motivação
     - Encontrar uma alimentação que possibilite o atingimento de um nível ótimo de saúde, mediante o aproveitamento máximo dos alimentos, tanto em termos nutricionais quanto de desperdício reduzido;
-    - Fazer economia doméstica, sem abrir mão de uma alimentação saudável, consciente, sustentável e prática em sua rotina estudantil.
+    - Fazer economia doméstica, sem abrir mão de uma alimentação saudável, consciente, sustentável e prática.
     
   - Frustação
-    - No momento, ele ainda mantém uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que além de custosa, compromete a sua saúde: Ricardo já apresenta diagnóstico de pré-diabetes e de deficiência nutricional de grau moderado.
+    - No momento, ele ainda mantém uma alimentação baseada em alimentos industrializados e com baixo teor nutricional que, além de custosa, compromete sua saúde, tendo sido ele diagnosticado com pré-diabetes e com deficiência nutricional de grau moderado.
     
 ## Histórias de Usuários
 
