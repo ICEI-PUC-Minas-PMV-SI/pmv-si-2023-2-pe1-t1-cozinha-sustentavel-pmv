@@ -23,7 +23,7 @@ Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. E
      - Conscientizar os usuários para que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes. 
 
   - Frustação
-     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço em razão de pouca informação e inexpressiva visibilidade. 
+     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço midiático em razão de pouca informação e inexpressiva visibilidade. 
 
 Persona 2:
 Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e, geralmente, não planeja as suas compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, baseada em soluções industrializadas, e pretende mudar essa situação no curto prazo, em razão também de seu histórico médico familiar: ele é filho de pais hipertensos e diabéticos.
