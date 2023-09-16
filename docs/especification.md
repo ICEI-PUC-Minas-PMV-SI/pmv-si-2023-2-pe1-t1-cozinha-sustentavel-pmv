@@ -1,27 +1,34 @@
 # Especificações do Projeto
 
-O projeto tem o objetivo de incentivar os usuários a adotarem uma alimentação consciente, sustentável e saudável. A partir dessa premissa, o sistema apresenta, como solução, a criação de um catálogo de receitas e o desenvolvimento de uma rede que: 1) permita aos usuários adicionar e compartilhar receitas e conteúdos de alimentação inteligente e socialmente responsável; 2) possibilite aos usuários a interação entre si e a divulgação de conteúdos produzidos por profissionais especializados em alimentação sustentável. 
+O projeto tem o objetivo de incentivar os usuários a adotarem uma alimentação consciente, sustentável e saudável. A partir dessa premissa, o sistema apresenta, como solução, a criação de um catálogo de receitas e o desenvolvimento de uma rede que: 
+1) Permita aos usuários adicionar e compartilhar receitas e conteúdos de alimentação inteligente e socialmente responsável; 
+2) Possibilite aos usuários a interação entre si e a divulgação de conteúdos produzidos por profissionais especializados em alimentação sustentável. 
 
-Para isso, primeiramente, as personas, suas características e necessidades específicas, no campo alimentar, serão apresentadas, para posterior definição dos requisitos do sistema. 
+Para isso, primeiramente, as personas, suas características e necessidades específicas no campo alimentar serão apresentadas, para a posterior definição dos requisitos do sistema. 
 
-As técnicas utilizadas, a seguir, serão:
+As técnicas a seguir serão as seguintes:
 - Definição de personas, com contextualização de seus momentos de vida e de suas necessidades;
 - Criação das histórias de usuários, separando em "Persona" | "Funcionalidade" | "Motivo";
 - Criação dos requisitos do sistema, a partir dos resultados dos passos anteriores.
 
 ## Personas
 
+Persona 1:
 Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. Ele busca uma ferramenta que o auxilie a apresentar, em redes sociais, suas receitas do nicho de alimentação sustentável, objetivando a consolidação de seu nome como referência na gastronomia socialmente consciente. 
   - Motivação
-     - Divulgar a cozinha sustentável a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção de receitas sustentáveis pelos usuários, também conscientizando que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes.  O Slow food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos". 
-  - Frustação
-     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço, em razão de pouca informação e inexpressiva visibilidade. 
+     - Divulgar a cozinha sustentável a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção de receitas sustentáveis pelos usuários, também conscientizando que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes. O Slow Food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos".
 
-Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes baseada em soluções industrializadas e pretende mudar essa situação no curto prazo, por também ser filho de pais hipertensos e diabéticos. 
-  - Motivação
-    - Encontrar uma alimentação que concilie um nível geral de saúde, que aproveite o máximo dos alimentos em termos nutricionais e de desperdício tendendo a zero praticando economia doméstica com uma alimentação saudável, consciente, sustentável e que também seja prática para o seu dia a dia.
   - Frustação
-    - Hoje ele tem uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que são custosos no fim do mês e que afetam sua saúde devido ao quadro médico de pré-diabetes e de deficiência nutricional.
+     - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço em razão de pouca informação e inexpressiva visibilidade. 
+
+Persona 2:
+Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, baseada em soluções industrializadas, e pretende mudar essa situação no curto prazo, por também ser filho de pais hipertensos e diabéticos.
+
+  - Motivação
+    - Encontrar uma alimentação que concilie um nível geral de saúde, que aproveite o máximo dos alimentos em termos nutricionais e de desperdício, tendendo a zero, praticando economia doméstica com uma alimentação saudável, consciente, sustentável e que também seja prática para o seu dia a dia.
+    
+  - Frustação
+    - Hoje, ele tem uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que são custosos no fim do mês e que afetam sua saúde devido ao quadro médico de pré-diabetes e de deficiência nutricional.
     
 ## Histórias de Usuários
 
