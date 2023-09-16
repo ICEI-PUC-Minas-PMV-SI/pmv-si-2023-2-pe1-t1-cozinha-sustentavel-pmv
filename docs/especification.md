@@ -15,20 +15,25 @@ As técnicas adotadas serão as seguintes:
 
 Persona 1:
 Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. Ele busca uma ferramenta que o auxilie a apresentar, em redes sociais, suas receitas do nicho de alimentação sustentável, objetivando a consolidação de seu nome como referência na gastronomia socialmente consciente. 
+
   - Motivação
-     - Divulgar a cozinha sustentável a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção de receitas sustentáveis pelos usuários, também conscientizando que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes. O Slow Food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos".
+     - Divulgar a cozinha sustentável por meio de receitas fundamentadas no movimento Slow Food que, em linhas gerais, defende o "alimento bom, limpo e justo para todos";
+     - Consolidar seu nome no mercado de alimentação consciente;
+     - Incentivar a adoção de receitas sustentáveis pelos usuários;
+     - Conscientizar os usuários para que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes. 
 
   - Frustação
      - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço em razão de pouca informação e inexpressiva visibilidade. 
 
 Persona 2:
-Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, baseada em soluções industrializadas, e pretende mudar essa situação no curto prazo, por também ser filho de pais hipertensos e diabéticos.
+Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e, geralmente, não planeja as suas compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, baseada em soluções industrializadas, e pretende mudar essa situação no curto prazo, em razão também de seu histórico médico familiar: ele é filho de pais hipertensos e diabéticos.
 
   - Motivação
-    - Encontrar uma alimentação que concilie um nível geral de saúde, que aproveite o máximo dos alimentos em termos nutricionais e de desperdício, tendendo a zero, praticando economia doméstica com uma alimentação saudável, consciente, sustentável e que também seja prática para o seu dia a dia.
+    - Encontrar uma alimentação que possibilite o atingimento de um nível ótimo de saúde, mediante o aproveitamento máximo dos alimentos, tanto em termos nutricionais quanto de desperdício reduzido;
+    - Fazer economia doméstica, sem abrir mão de uma alimentação saudável, consciente, sustentável e prática em sua rotina estudantil.
     
   - Frustação
-    - Hoje, ele tem uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que são custosos no fim do mês e que afetam sua saúde devido ao quadro médico de pré-diabetes e de deficiência nutricional.
+    - No momento, ele ainda mantém uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que além de custosa, compromete a sua saúde: Ricardo já apresenta diagnóstico de pré-diabetes e de deficiência nutricional de grau moderado.
     
 ## Histórias de Usuários
 
