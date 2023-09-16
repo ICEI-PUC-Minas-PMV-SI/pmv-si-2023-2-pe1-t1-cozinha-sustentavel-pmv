@@ -13,16 +13,15 @@ As técnicas utilizadas, a seguir, serão:
 
 Leonardo é cozinheiro, formado em gastronomia e atua na área há cinco anos. Ele busca uma ferramenta que o auxilie a apresentar, em redes sociais, suas receitas do nicho de alimentação sustentável, objetivando a consolidação de seu nome como referência na gastronomia socialmente consciente. 
   - Motivação
-     - Divulgar a cozinha sustentável, a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção, pelos usuários, de receitas sustentáveis, elaboradas em casa e, quando os usuários estiverem fora de casa, a opção pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes.  O Slow food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos". 
+     - Divulgar a cozinha sustentável a partir de receitas fundamentadas no movimento Slow Food, consolidando seu nome no mercado de alimentação consciente e incentivando a adoção de receitas sustentáveis pelos usuários, também conscientizando que optem pela alimentação em locais que valorizem o consumo consciente e o máximo aproveitamento dos ingredientes.  O Slow food é um movimento que, em linhas gerais, defende o "alimento bom, limpo e justo para todos". 
   - Frustação
      - As redes sociais atuais não possuem ferramentas adequadas para a divulgação de receitas sustentáveis. Estas tendem a perder espaço, em razão de pouca informação e inexpressiva visibilidade. 
 
-Ricardo tem 24 anos, é estudante universitário, de baixa renda e vive em uma cidade distante de sua terra natal, com a ajuda de seus pais. Ele costuma visitar sua família, uma vez ao mês, e não costuma planejar as compras no supermercado, tendo, muitas vezes, que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes, baseada em soluções industrializadas e pretende mudar essa situação no curto prazo - também por ser filho de pais hipertensos e diabéticos. 
+Ricardo tem 24 anos, é estudante universitário de baixa renda e vive com a ajuda de seus pais em uma cidade distante de sua terra natal. Ele costuma visitar sua família uma vez ao mês e não costuma planejar as compras no supermercado, tendo muitas vezes que "se virar" com o que há na geladeira. Ele está insatisfeito com sua dieta de poucos nutrientes baseada em soluções industrializadas e pretende mudar essa situação no curto prazo, por também ser filho de pais hipertensos e diabéticos. 
   - Motivação
-    - Encontrar uma alimentação que concilie as seguintes variáveis: nível geral de saúde, máximo aproveitamento dos alimentos (em termos nutricionais e de desperdício tendendo a zero) e economia doméstica (uma alimentação saudável, consciente e sustentável, que "caiba no seu bolso"). 
+    - Encontrar uma alimentação que concilie um nível geral de saúde, que aproveite o máximo dos alimentos em termos nutricionais e de desperdício tendendo a zero praticando economia doméstica com uma alimentação saudável, consciente, sustentável e que também seja prática para o seu dia a dia.
   - Frustação
-    - Alimentação baseada em alimentos industrializados e com baixo teor nutricional;
-    - Quadro médico de pré-diabetes e de deficiência nutricional. 
+    - Hoje ele tem uma alimentação baseada em alimentos industrializados e com baixo teor nutricional, que são custosos no fim do mês e que afetam sua saúde devido ao quadro médico de pré-diabetes e de deficiência nutricional.
     
 ## Histórias de Usuários
 
