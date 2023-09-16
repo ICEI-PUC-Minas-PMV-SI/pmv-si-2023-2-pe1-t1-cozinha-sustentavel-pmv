@@ -23,6 +23,6 @@ Ao conscientizar as novas famílias sobre como realizar um consumo sustentável,
 A criação de um repositório geral de receitas tem o objetivo de desmistificar, simplificar e otimizar o uso diversificado dos principais ingredientes usados na alimentação diária da população brasileira, valorizando a diversidade local e as preferências alimentares nas cinco regiões do país.    
 
 ## Público-Alvo
-1) Jovens recém saídos da casa dos pais interessados na associação de economia doméstica com alimentação consciente;
+1) Jovens recém saídos da casa dos pais interessados na combinação de economia doméstica com alimentação consciente;
 2) Adultos e idosos à procura de alimentação saudável, consciente e sustentável e, também, de melhoria na economia doméstica;
 3) Cozinheiros interessados na divulgação de cardápios sustentáveis.
