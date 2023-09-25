@@ -57,7 +57,7 @@ As tabelas, que se seguem, apresentam os requisitos funcionais e não funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Criar um perfil para cadastrar as receitas | ALTA |  |
+|RF-001| Criar perfil | ALTA |  |
 |RF-002| Registrar as receitas | ALTA | |
 |RF-003| Consultar as receitas adicionadas | ALTA | | 
 |RF-004| Pesquisar as receitas por ingrediente | MÉDIA | | 
@@ -66,6 +66,7 @@ As tabelas, que se seguem, apresentam os requisitos funcionais e não funcionais
 |RF-007| Navegar por categorias | MÉDIA | |
 |RF-008| Favoritar as receitas | BAIXA ||
 |RF-009| Compartilhar as receitas | BAIXA ||
+|RF-010| Comentar receitas | BAIXA ||
 
 ### Requisitos não Funcionais
 
