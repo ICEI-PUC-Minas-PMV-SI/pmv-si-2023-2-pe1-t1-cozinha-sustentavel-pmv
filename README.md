@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/4bc31da7674bcefdaada5e708312ebd1a4da80b7/docs/img/Cozinha%20Sustenta%CC%81vel-3.png) -->
 <div align="center" text-align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/4bc31da7674bcefdaada5e708312ebd1a4da80b7/docs/img/Cozinha%20Sustenta%CC%81vel-3.png"    alt="Descrição da imagem" style="width: 200px; height: 200px; margin-left: 400px; margin-right: auto;" />
+  <img src="[https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/4bc31da7674bcefdaada5e708312ebd1a4da80b7/docs/img/Cozinha%20Sustenta%CC%81vel-3.png](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/main/docs/Cozinha%20Sustenta%CC%81vel.png)"    alt="Descrição da imagem" style="width: 200px; height: 200px; margin-left: 400px; margin-right: auto;" />
 <div/>
   
 # Cozinha Sustentável
