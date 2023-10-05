@@ -30,11 +30,11 @@ Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas A
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
-| ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
-| ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
-| ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
-| ETAPA 5         | [Apresentação](presentation/README.md) |
+| ETAPA 1 (17/09)         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
+| ETAPA 2 (08/10)        |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 3 (5/11)        |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
+| ETAPA 4 (10/12)       |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
+| ETAPA 5 (21/12)        | [Apresentação](presentation/README.md) |
 
 # Código
 
