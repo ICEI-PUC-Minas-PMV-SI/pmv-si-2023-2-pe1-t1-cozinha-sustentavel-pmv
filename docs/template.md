@@ -11,12 +11,16 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+O esquema de cores é baseado em tons de verde, que remetem a sustentabilidade e detalhes em rosa que trazem maior suavidade para o design. Já o cinza é usado para balancear e neutralizar a paleta de cores.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/6aa687c31911b8e3fe9e1aa836e71670645c19e7/docs/img/Captura%20de%20Tela%202023-10-08%20a%CC%80s%2009.37.23.png)
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+A fonte escolhida foi a Oswald pelo design clássico e minimalista que traz maior clareza para usuário ler e publicar receitas.
+
+![](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/87359fce8753c05fd4fc15014b7da5001f9e1b9b/docs/img/Captura%20de%20Tela%202023-10-08%20a%CC%80s%2010.02.28.png)
 
 
 ## Iconografia
