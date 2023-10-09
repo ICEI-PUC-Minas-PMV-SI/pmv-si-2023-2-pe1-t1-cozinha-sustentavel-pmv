@@ -1,13 +1,19 @@
 # Template padrão do site
 
 ## Design
-
+### Página Inicial 
 ![Home Page](img/template/design_homepage.png)
+
+### Telas para cadastro e Login 
 ![Cadastro](img/template/design_cadastro.png)
 ![Login](img/template/design_login.png)
+
+### Telas para interagir com uma receita
 ![Visualizar Receita](img/template/design_visualizar_receita.png)
 ![Compartilhar](img/template/design_compartilhar.png)
 ![Editar](img/template/design_editar_receita.png)
+
+### Configurações de perfil e dados relativos ao usuário
 ![Perfil Receitas Publicadas](img/template/design_perfil_publicadas.png)
 ![Favoritos ](img/template/design_perfil_favoritos.png)
 ![Configuração](img/template/design_perfil_configuração.png)
