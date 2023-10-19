@@ -3,18 +3,22 @@
 
 <html>
     <head>
+        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
         <title>Cozinha Sustentável</title>
     </head>
     <body>
         <header>
-            <div>
-                <img src="../docs/Cozinha Sustentável.png" alt="Logo do Blog de Receitas" width="150">
-                <form>
-                    <input type="text" placeholder="Pesquisar">
-                    <button type="submit">Pesquisar</button>
+            
+            <div class="header">
+                <img src="../docs/Cozinha Sustentável.png" alt="Logo do Blog de Receitas" class="logo-header">
+                <form class="search-bar">
+                    <input type="text" placeholder="Procurar receita" class="search-bar-box">
+                    <button type="submit" class="outlined-button">Pesquisar <i class="bi bi-arrow-right"></i></button>
                 </form>
-                <button>Login <i class="fa fa-user"></i></button>
+                <button class="login-button">Login</button>
             </div>
+
             <nav>
                 <ul class="category-bar">
                     <li><a href="receitas.html?categoria=vegetariana">Vegetariana</a></li>
