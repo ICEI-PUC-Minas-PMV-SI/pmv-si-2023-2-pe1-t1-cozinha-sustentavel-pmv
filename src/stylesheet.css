@@ -11,6 +11,8 @@
 }
 body {
     background-color: var(--background-color);
+    padding: 0px;
+    margin: 0px;
     
 }
 .header{
@@ -77,4 +79,34 @@ font-size: 16px;
 }
 .login-button:hover{
     cursor: pointer;
+}
+
+.category-bar{
+    list-style-type: none;
+    margin: 0px;
+    display: flex;
+    padding: 0px;
+}
+.category-bar li{
+    flex: 3;
+    height: 24px;
+}
+
+.category-bar a{
+    display: inline-block;
+    width: 100%;
+    background-color: var(--primary-color);
+    text-decoration: none;
+    color: var(--background-color);
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.category-bar a:hover{
+    background-color: var(--secondary-color);
+    color: var(--background-color);
+}
+
+main{
+    margin-top: 5vw;
 }
