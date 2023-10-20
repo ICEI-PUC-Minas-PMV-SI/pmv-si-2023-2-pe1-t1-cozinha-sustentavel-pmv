@@ -3,6 +3,7 @@
     --secondary-color: #FF7F85;
     --background-color: #F7FFF7;
     --grey: #CBD2E0;
+    --dark-grey: #A0ABC0;
     --black: #3F463C;
     --white:#FFFFFF;
 }
@@ -88,7 +89,7 @@ font-size: 16px;
     padding: 0px;
 }
 .category-bar li{
-    flex: 3;
+    flex: 2;
     height: 24px;
 }
 
@@ -108,5 +109,54 @@ font-size: 16px;
 }
 
 main{
-    margin-top: 5vw;
+    margin-top: 3vw;
+}
+
+.recipe-cards{
+    margin: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.card{
+
+    flex:auto;
+    max-width: 31%;
+    border-radius: 8px;
+    border: 2px solid var(--primary-color);
+    background: var(--white);
+}
+
+.card a{
+    text-decoration: none;
+}
+.card:hover{
+    transform: scale(1.02);
+}
+.card-title{
+    color: var(--primary-color);
+    padding: 16px;
+}
+.card-image{
+    width: 100%;
+    border-top: 2px solid var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+}
+.card-description{
+    padding: 10px 12px;
+    margin: 0px;
+    font-weight:300;
+    color: var(--black);
+}
+.fill-button{
+    display: flex;
+    padding: 12px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    
+    background: var(--primary-color);
+    font-size: 16px;
+    color: var(--white);
 }
