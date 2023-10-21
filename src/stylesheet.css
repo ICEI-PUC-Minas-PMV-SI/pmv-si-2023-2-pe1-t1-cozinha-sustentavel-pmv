@@ -191,6 +191,7 @@ a{
 
 .recipe .action i{
     font-size: 20px;
+    color: var(--secondary-color);
 }
 .recipe .action .stars i{
     color: var(--yellow);
