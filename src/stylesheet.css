@@ -16,7 +16,7 @@ body {
     margin: 0px;
 }
 main{
-    margin-top: 4vw;
+    margin-top: 5vw;
 }
 .header{
     display: flex;
@@ -159,4 +159,79 @@ font-size: 16px;
     background: var(--primary-color);
     font-size: 16px;
     color: var(--white);
+}
+.recipe .header{
+    gap: 20vw;
+}
+.recipe .header img{
+    border: 3px solid var(--primary-color);
+    width: 429px;
+    height: 168px;
+    object-fit: cover;
+}
+
+.recipe .data{
+    display: flex;
+    justify-content: space-around;
+    padding: 5vw 5vw 0px 5vw;
+}
+
+.recipe .data .stars{
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+}
+
+.recipe .data .rating{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.recipe .data .favorite{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recipe .data .share{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recipe .data .print{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recipe .info{
+    display: flex;
+    justify-content: space-around;
+    padding: 1vw 20vw;
+    border-top: 2px solid var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    background-color: var(--white);
+}
+
+.recipe .info .time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe .info .serving{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe .info .difficulty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe .info .cost{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
