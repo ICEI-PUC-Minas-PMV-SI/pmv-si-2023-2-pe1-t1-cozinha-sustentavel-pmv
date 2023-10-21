@@ -177,22 +177,22 @@ a{
     object-fit: cover;
 }
 
-.recipe .data{
+.recipe .action{
     display: flex;
     justify-content: space-around;
     padding: 5vw 5vw 0px 5vw;
 }
 
-.recipe .data *{
+.recipe .action *{
     display: flex;
     align-items: center;
     gap: 8px;
 }
 
-.recipe .data i{
+.recipe .action i{
     font-size: 20px;
 }
-.recipe .data .stars i{
+.recipe .action .stars i{
     color: var(--yellow);
 }
 
