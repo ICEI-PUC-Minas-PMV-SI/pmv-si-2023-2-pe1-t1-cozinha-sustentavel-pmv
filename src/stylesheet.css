@@ -240,5 +240,22 @@ li{
     color: var(--white);
 }
 .recipe .feedback i{
-    color:var(--white)
+    color:var(--white);
+}
+.identification{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.identification h1{
+    font-size: 56px;
+}
+.identification img{
+    --_image-size: 12vw;
+    width: var(--_image-size);
+    height: var(--_image-size);
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+    right: 10%;
 }
