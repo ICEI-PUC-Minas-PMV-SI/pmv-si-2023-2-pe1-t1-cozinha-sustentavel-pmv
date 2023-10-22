@@ -116,9 +116,6 @@ font-size: 16px;
     background-color: var(--secondary-color);
     color: var(--background-color);
 }
-
-
-
 .recipe-cards{
     margin: 70px;
     display: flex;
@@ -220,6 +217,9 @@ a{
 
 li{
     font-family: var(--text-font);
+}
+.recipe i{
+    color: var(--secondary-color);
 }
 .recipe .ingredients{
     padding: 0px 20vw;
