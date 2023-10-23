@@ -15,9 +15,10 @@
     color: var(--black);
 }
 body {
-    background-color: var(--background-color);
     padding: 0px;
     margin: 0px;
+    height: 100%;
+    background-color: var(--background-color);
 }
 main{
     margin-top: 5vw;
@@ -258,4 +259,50 @@ li{
     object-fit: cover;
     position: absolute;
     right: 10%;
+}
+.tabs{
+    min-width: 320px;
+    max-width: 800px;
+    padding: 50px;
+    margin: 0 auto;
+    
+}
+.content{
+    display: none;
+    padding: 20px 0 0;
+    border-top: 1px solid #ddd;
+}
+
+.tabs input{
+    display: none;
+}
+.tabs label {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 15px 25px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--black);
+    border: 1px solid transparent;
+}
+.tabs label i{
+    color: var(--secondary-color);
+}
+.tabs label:before {
+    margin-right: 10px;
+}
+.tabs label:hover {
+    color: #888;
+    cursor: pointer;
+}
+.tabs input:checked + label {
+    border: 1px solid #ddd;
+    border-top: 2px solid var(--primary-color);
+    border-bottom: 1px solid #fff;
+}
+
+#published-recipe:checked ~ #published-recipe,
+#favorites:checked ~ #favorites,
+#settings:checked ~ #settings{
+  display: block;
 }

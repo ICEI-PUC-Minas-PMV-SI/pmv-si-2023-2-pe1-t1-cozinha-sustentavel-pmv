@@ -39,9 +39,23 @@
                 <h1>Fulana da Silva</h1>
                 <img src="img/profile-pic.jpg" alt="Foto de perfil">
             </div>
+            <div class="tabs">
+                
+                <input type="radio" name="tab" id="published-recipe" checked>
+                <label for="published-recipe" class="tab"><i class="bi bi-file-text-fill"></i> Receitas Publicadas</label>
+                
+                <input type="radio" name="tab" id="favorites">
+                <label for="favorites" class="tab"><i class="bi bi-heart-fill"></i> Favoritos</label>
+                
+                <input type="radio" name="tab" id="settings">
+                <label for="settings" class="tab"><i class="bi bi-gear-fill"></i> Configuração de Perfil</label>
+
+                <div class="content" id="published-recipe">Receitas Publicadas</div>
+                <div class="content" id="favorites">Receitas Favoritas</div>
+                <div class="content" id="settings">Configuração</div>
+            </div>
         </main>
         <footer> 
-            <!-- Rodapé da página -->
         </footer>
     </body>
 </html>
