@@ -304,5 +304,40 @@ li{
 #published-recipe:checked ~ #published-recipe,
 #favorites:checked ~ #favorites,
 #settings:checked ~ #settings{
-  display: block;
+    display: block;
+
+}
+main .tabs #published-recipe a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+main .tabs #published-recipe a:hover{
+    background-color: #20202010;
+}
+main .tabs .content img{
+    border: 3px solid var(--primary-color);
+    width: 20vw;
+    height: 8vw;
+    object-fit: cover;
+}
+
+main .tabs #favorites card{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+main .tabs #favorites card{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+main .tabs #favorites card .delete-favorite a i{
+    color: var(--secondary-color);
+}
+main .tabs #favorites card .delete-favorite a i:hover{
+    color: red;
 }
