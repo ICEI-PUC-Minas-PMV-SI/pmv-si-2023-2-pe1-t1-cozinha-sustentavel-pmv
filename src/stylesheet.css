@@ -28,8 +28,32 @@ main{
     justify-content: center; 
     gap: 8px;
     align-items: center;
-  }
-
+}
+.header-secondary {
+    margin-bottom: -3vw;
+    display: flex;
+    height: 70px;
+    background-color: var(--primary-color);
+}
+.row a {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    width: 11%; 
+    align-self: center;
+    margin: -15px;
+}
+.cadastro {
+    display: flex;
+    justify-content: center;
+}
+#form-cadastro {
+    width: 42%;
+}
+#form-cadastro label {
+    padding: 5px 5px;
+}
 .logo-header{
     width: 9vw; 
     max-width: 150px;
@@ -303,11 +327,17 @@ li{
     align-self: start;
     padding: 15px 5px;
 }
+#form-cadastro label {
+    padding: 5px 5px;
+}
 #settings input {
     height: 42px;
     border: 2px solid var(--black);
     padding: 5px;
     border-radius: 4px;
+}
+#form-cadastro input {
+    height: 36px;
 }
 #settings textarea {
     height: 82px;
