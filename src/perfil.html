@@ -254,7 +254,40 @@
                             </div>
                     </card>
                 </div>
-                <div class="content" id="settings">Configuração</div>
+                <div class="content" id="settings">
+                    <form action="">
+                        <div class="row">
+                            <div class="column">
+                                <div class="column">
+                                    <label for="nome">Nome ou Apelido</label>
+                                    <input type="text" id="nome" name="nome" placeholder="Insira seu nome ou apelido">
+                                </div>
+                            
+                                <div class="column">
+                                    <label for="bio">Mini Bio</label>
+                                    <textarea type="bio" id="bio" name="bio"></textarea>
+                                </div>
+                            </div>
+    
+                            <div class="column">
+                                <div class="column">
+                                    <label for="senha">Senha</label>
+                                    <input type="password" id="senha" name="senha" placeholder="Defina uma nova senha">
+                                </div>
+                            
+                                <div class="column">
+                                    <label for="confirmacao_senha">Confirme a senha</label>
+                                    <input type="password" id="confirmacao_senha" name="confirmacao_senha" placeholder="Repita a senha">
+                                </div>
+                            </div>
+                        </div>
+            
+
+                        <div class="row">
+                            <input class="fill-button" type="submit" value="Salvar">
+                        </div>
+                      </form>
+                </div>
             </div>
         </main>
         <footer> 

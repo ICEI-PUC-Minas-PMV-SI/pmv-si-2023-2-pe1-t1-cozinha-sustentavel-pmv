@@ -276,6 +276,48 @@ li{
 .tabs input{
     display: none;
 }
+#settings .fill-button {
+    border-radius: 6px;
+    border: 0px;
+    width: 254px;
+}
+#settings form {
+    display: flex;
+    flex-direction: column;
+}
+#settings input {
+    display: block;
+}
+#settings .column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 8px;
+}
+#settings .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#settings label {
+    align-self: start;
+    padding: 15px 5px;
+}
+#settings input {
+    height: 42px;
+    border: 2px solid var(--black);
+    padding: 5px;
+    border-radius: 4px;
+}
+#settings textarea {
+    height: 82px;
+    border: 2px solid var(--black);
+    padding: 5px;
+    border-radius: 4px;
+}
+#settings .column i {
+    display: block;
+}
 .tabs label {
     display: inline-block;
     margin: 0 0 -1px;
