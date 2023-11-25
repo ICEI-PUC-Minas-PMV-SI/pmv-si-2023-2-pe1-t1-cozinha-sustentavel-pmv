@@ -19,7 +19,6 @@ Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas A
 * Gabriel Vieira de Carvalho Santana
 * Júnior Batista Silva Filho
 * Maryana Morato
-* Patricia Karenina Arrais Maia
 * Thiago Marques Theodoro
 * Vinicius Mesquita de Oliveira
 
