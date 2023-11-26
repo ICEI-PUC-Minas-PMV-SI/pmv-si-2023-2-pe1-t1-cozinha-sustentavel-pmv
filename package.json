@@ -1,0 +1,15 @@
+{
+  "name": "pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv",
+  "version": "1.0.0",
+  "description": "<!-- ![](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/1fa7a603a2fc57868f5f13febe8ec71f2ea8076c/docs/img/LogoFinal.JPG) -->\r <div align=\"center\" text-align=\"center\">\r   <img src=\"https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/1fa7a603a2fc57868f5f13febe8ec71f2ea8076c/docs/img/LogoFinal.JPG\"    alt=\"Descrição da imagem\" style=\"width: 200px; height: 200px; margin-left: 400px; margin-right: auto;\" />\r <div/>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

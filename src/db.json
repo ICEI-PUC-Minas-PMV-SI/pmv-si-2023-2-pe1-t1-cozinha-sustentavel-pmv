@@ -1,0 +1,17 @@
+{
+    "receitas": [
+      {
+        "id": 1,
+        "titulo": "Carne de Casca de Banana",
+        "imagem": "img/casca-de-banana.jpg",
+        "descricao": "Uma saborosa receita utilizando casca de banana e temperos que você já tem."
+      },
+      {
+        "id": 2,
+        "titulo": "Bolo de Casca de Banana",
+        "imagem": "img/bolo-de-casca-de-banana.jpg",
+        "descricao": "Um bolo de casca de banana com um sabor incrível e uma textura maravilhosa."
+      }
+    ]
+  }
+  
