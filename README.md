@@ -15,11 +15,7 @@ Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas A
 
 ## Integrantes
 
-* Camilla Cintra de Oliveira
-* Gabriel Vieira de Carvalho Santana
-* Júnior Batista Silva Filho
 * Maryana Morato
-* Thiago Marques Theodoro
 * Vinicius Mesquita de Oliveira
 
 ## Orientador
