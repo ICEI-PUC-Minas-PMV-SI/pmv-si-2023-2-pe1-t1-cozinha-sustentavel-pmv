@@ -1,29 +1,33 @@
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title:
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Cozinha Sustentável
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Nunes Morato
+    given-names: Maryana
+    email: maryanamorato16@gmail.com
+  - name-suffix: Professor
     affiliation: PUC Minas
-    family-names:
-    given-names:
+    family-names: Bastos de Paula
+    given-names: Hugo
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/main/README.md
+    description: Link para repositório
+repository-code: >-
+  https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t1-cozinha-sustentavel-pmv/blob/main/README.md
+abstract: |2-
+   Plataforma de compartilhamento de receitas com uso
+    integral de alimentos.
 keywords:
-  -
-  -
-repository-code:
+  - Sustentabilidade
+  - Gastronomia
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: '2023-06-30'
