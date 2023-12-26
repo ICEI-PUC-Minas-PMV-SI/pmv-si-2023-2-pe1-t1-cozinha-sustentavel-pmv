@@ -292,6 +292,12 @@ li{
     margin: 0 auto;
     
 }
+.feedback:hover > i:before {
+    color: yellow !important;
+}
+.feedback:hover > i:hover ~ i:before {
+    color: white !important;
+} 
 .content{
     display: none;
     padding: 20px 0 0;

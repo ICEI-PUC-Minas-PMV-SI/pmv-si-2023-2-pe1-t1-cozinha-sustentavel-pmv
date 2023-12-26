@@ -8,6 +8,12 @@
     },
     {
       "id": 2,
+      "titulo": "Suco de Casca de Abacaxi",
+      "imagem": "img/suco-capim-santo.webp",
+      "descricao": "Um suco prático, saudável e muito refrescante que vai te impressionar."
+    },
+    {
+      "id": 3,
       "titulo": "Bolo de Casca de Banana",
       "imagem": "img/bolo-de-casca-de-banana.jpg",
       "descricao": "Um bolo de casca de banana com um sabor incrível e uma textura maravilhosa."
