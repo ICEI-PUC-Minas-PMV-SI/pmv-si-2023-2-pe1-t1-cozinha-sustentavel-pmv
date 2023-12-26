@@ -11,7 +11,7 @@
 
 `SEMESTRE: 1º`
 
-Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas Alimentícias Não Convencionais).
+Plataforma de compartilhamento de receitas com uso integral de alimentos.
 
 ## Integrantes
 
@@ -38,5 +38,4 @@ Site de receitas focado na reutilização de alimentos e uso de PANCS (Plantas A
 
 # Apresentação
 
-<li><a href="https://docs.google.com/presentation/d/1BnR6Lmif9FnPuOd6uHX7G0C_yCQ_oLPXbMi-4WKOVDI/edit?usp=sharing"> Slide</a></li>
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
